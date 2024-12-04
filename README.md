@@ -1,4 +1,5 @@
 Tabuleiro Interativo em C
+
 Este programa em C implementa um sistema interativo para marcar posições em um tabuleiro 8x8 usando coordenadas no formato letra+número (por exemplo, a1, c3). Ele foi projetado para rodar em terminais padrão e oferece uma interface simples para interação.
 
 Funcionalidades
